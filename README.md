@@ -10,7 +10,7 @@ javscript 로 만든 그림판입니다.
 
 ## Screenshot
 
-<img width="80%" src="https://user-images.githubusercontent.com/80146176/137259749-9bc11049-b71f-4b22-bad7-27f407114162.png"/>
+<img width="80%" src="https://user-images.githubusercontent.com/80146176/137259966-e64d973c-e9ad-4254-9266-5e7f256d1df8.png"/>
 
 ## Tests
 
